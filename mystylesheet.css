@@ -1,0 +1,54 @@
+/* general */
+body{
+  padding-bottom: 70px;
+}
+
+/* header */
+.jumbotron{
+  background-image: url("img/header.jpg");
+  height: 350px;
+  text-align: center;
+}
+
+#example .fa{
+  font-size: 18px;
+}
+
+/* text */
+#container_text{
+  padding: 10px;
+}
+
+#my_heading{
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#container_text h3{
+  padding-bottom: 40px;
+}
+
+#row_text{
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 10px;
+}
+
+/* blog links */
+.blog_home{
+  text-align: center;
+  border-radius: 20%;
+  border: 5px solid white;
+  background-color: #e5f0ff;
+  margin-bottom: 40px;
+}
+
+/* footer */
+footer p{
+  text-align: center;
+  color: white;
+  padding-top: 5px;
+  padding: 8px 0 2px 0;
+}
